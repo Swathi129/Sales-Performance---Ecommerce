@@ -29,7 +29,7 @@ This project is an interactive Power BI dashboard built to analyze e-commerce sa
   - By **Quarter**
 
 ## 📸 Screenshots
-![Dashboard Overview](dashboard-screenshot1.png)
+![Dashboard Overview](Sales Performance - E-Commerce.pbix.png)
 
 ## 📂 Files Included
 
