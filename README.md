@@ -7,7 +7,7 @@ This project is an interactive Power BI dashboard built to analyze e-commerce sa
 - Power BI
 - DAX (Data Analysis Expressions)
 - Power Query
-- Data modeling (star schema)
+
 
 ## 📈 Key Features
 - Daily & Monthly Sales Trend
@@ -17,7 +17,7 @@ This project is an interactive Power BI dashboard built to analyze e-commerce sa
 - Profitability Metrics
 - Dynamic Filters
 
-- - **Total Sales, Profit, Orders & Quantity Sold** at a glance
+- **Total Sales, Profit, Orders & Quantity Sold** at a glance
 - **Top 5 Customers** based on sales
 - **Profit by Sub-Category** for better product performance understanding
 - **Bottom 5 Performing Categories** to identify areas of improvement
@@ -29,7 +29,11 @@ This project is an interactive Power BI dashboard built to analyze e-commerce sa
   - By **Quarter**
 
 ## 📸 Screenshots
-![Dashboard Overview](Sales Performance - E-Commerce.pbix.png)
+![Dashboard Overview](.Sales Performance - E-Commerce.pbix.png)
+## 📸 Dashboard Overview
+
+[Click here to view the full dashboard](./Sales%20Performance-Ecommerce.PNG)
+
 
 ## 📂 Files Included
 
