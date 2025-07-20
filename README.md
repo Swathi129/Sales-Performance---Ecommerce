@@ -17,12 +17,44 @@ This project is an interactive Power BI dashboard built to analyze e-commerce sa
 - Profitability Metrics
 - Dynamic Filters
 
+- - **Total Sales, Profit, Orders & Quantity Sold** at a glance
+- **Top 5 Customers** based on sales
+- **Profit by Sub-Category** for better product performance understanding
+- **Bottom 5 Performing Categories** to identify areas of improvement
+- **Sales Trends by Month** using a combo line chart (Profit & Amount)
+- **Payment Mode Distribution** shown with a donut chart
+- **State-wise Distribution** of Profit, Amount, and Order Volume on a map
+- **Interactive Filters**:
+  - By **State**
+  - By **Quarter**
+
 ## 📸 Screenshots
 ![Dashboard Overview](dashboard-screenshot1.png)
 
 ## 📂 Files Included
-- `ecommerce-sales-dashboard.pbix`: Main Power BI file
-- `dashboard-screenshot1.png`: Screenshot of dashboard
+
+| File Name                               | Description                                |
+|----------------------------------------|--------------------------------------------|
+| `Sales Performance - E-Commerce.pbix`  | Power BI dashboard source file             |
+| `Sales Performance-Ecommerce.PNG`      | Dashboard preview image                    |
+| `README.md`                            | Project overview and documentation         |
+
+
+## 🚀 Insights Gained
+
+- Majority of sales (~44%) come from a single **payment mode**
+- **Harivansh** and **Madhav** are top revenue-generating customers
+- **Printers** and **Bookcases** are the most profitable sub-categories
+- **Electronic Accessories** show poor profitability — potential for review
+- Sales dip during **February, June, and September** — explore seasonal trends
+
+
+## 📈 Use Case
+
+This dashboard is ideal for:
+- E-commerce managers and analysts
+- Business stakeholders looking to optimize product mix and region focus
+- Decision-makers aiming to boost profitability and performance
 
 
 ---
